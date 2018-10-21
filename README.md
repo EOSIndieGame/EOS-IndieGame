@@ -1,5 +1,7 @@
 # EOS-IndieGame
 
+![EOS Indie Game](https://github.com/EOSIndieGame/EOS-IndieGame/blob/master/igc-website-logo.png)
+
 ## 去中心化的EOS独立游戏组织
 
 由一群来自不同的公司、有着不同背景，但都是热爱游戏，同时对区块链技术感兴趣的独立开发者、设计师、产品以及策划等组成的去中心化组织。 
